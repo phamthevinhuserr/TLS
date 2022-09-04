@@ -1,0 +1,7 @@
+npm i randomstring
+
+chmod +x AyaV2
+
+python3 proxy.py
+
+./AyaV2 <target_url> <time> <thread> <proxyfile>
